@@ -13,15 +13,16 @@ main:
 
   #- title: "Teaching"
   #  url: /teaching/    
+  - title: "学术成果"
+    url: /cv/
+
     
-  #- title: "学术成果"
-  #  url: /portfolio/
+  - title: "学术研究"
+    url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "学术成果"
-    url: /cv/
-    
+
   #- title: "Guide"
   # url: /markdown/
