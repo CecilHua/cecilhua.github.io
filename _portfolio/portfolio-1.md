@@ -1,5 +1,3 @@
----
-
 📚 专著 Books
 ====
 - Xiaobo Zhou, **Shuxin Ge**, Jiancheng Chi, Tie Qiu. Industrial Edge Computing: Architecture, Optimization and Applications, 2024, Springer
@@ -22,5 +20,3 @@
 - **Shuxin Ge**, Xiaobo Zhou, Tie Qiu. R2Pricing:  MARL-based Pricing Strategy via Mutual Attention for MoD Systems with Ridesharing and Repositioning,IEEE Conference on Computer Communications (INFOCOM), 2024, to appear. (CCF A)
 - Yuan Lu, **Shuxin Ge**, Weixu Wang, Xiaobo Zhou, Tie Qiu. An Adaptive Teacher-Student Framework for Real-Time Video Inference in Multi-User Heterogeneous MEC Networks, The 29th IEEE International Conference on Parallel and Distributed Systems (ICPADS 2023), December 17-21, 2023, Hainan, China.
 - **Shuxin Ge**, Xiaobo Zhou, Tie Qiu, Guobin Wu, Xiaotong Wang. Ridesharing Order Dispatching with Dynamic Supply-demand Distribution, IEEE/ACM International Symposium on Quality of Service 2023 (IWQoS 2023), June 19-21, 2023, Orlando, FL, USA. (CCF B)
-
----
