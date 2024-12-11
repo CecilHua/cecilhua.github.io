@@ -12,7 +12,7 @@ title                    : "葛树鑫的个人主页"
 title_separator          : "-"
 name                     : &name "葛树鑫"
 description              : &description "天津大学，智慧物联网实验室，博士研究生"
-url                      : https://cecilhua.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://cecilhua.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
