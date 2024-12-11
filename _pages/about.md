@@ -9,16 +9,15 @@ redirect_from:
 
 葛树鑫，男，天津大学智能与计算学部在读博士生，多年来从事物联网与边缘计算关键技术研究，做出一系列成果。目前已近年来在各类国际会议期刊中发表高质量论文19篇，ACM/IEEE重要期刊、CCF A类、SCI一区期刊上发表论文9篇（其中第一作者/通讯作者7篇），其中包括IEEE TMC、IEEE TSC、IEEE COMST、IEEE INFOCOM、IEEE/ACM IWQoS等领域内顶级期刊和会议。参与国家自然科学基金2项。曾协助举办多个国际知名会议，任IEEE SmartIoT 2023大会秘书。
 
-2020/09–2025/03，天津大学，计算机科学与技术，博士
-2018/09–2020/07，天津大学，计算机技术，硕士
-2014/09–2018/07，河北工业大学，信息与计算科学（双学位），学士
 
 
 教育经历
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+2020/09–2025/03，天津大学，计算机科学与技术，博士
+2018/09–2020/07，天津大学，计算机技术，硕士
+2014/09–2018/07，河北工业大学，信息与计算科学（双学位），学士
+
 
 项目经历
 ======
