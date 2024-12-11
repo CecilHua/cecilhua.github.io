@@ -13,23 +13,23 @@ redirect_from:
 🔥新闻动态
 ======
 
--2024.12.06:  🎉🎉 关于车联网中定价策略的论文被IEEE Conference on Computer Communications 会议（CCF-A）接收！Congratulations!
--2024.12.06:  🎉🎉 关于车联网中定价策略的论文被IEEE Transactions on Mobile Computing期刊（CCF-A）接收！Congratulations!
--2024.11.15:  🎉🎉 关于车联网空驶调度的论文被IEEE Transactions on Mobile Computing期刊（CCF-A）接收！Congratulations!
--2024.11.05:  🎉🎉 关于车联网中司乘匹配算法的论文被IEEE Transactions on Services Computing期刊（CCF-A）接收！Congratulations!
--2023.10.26:  🎉🎉 关于DAG任务卸载的论文被IEEE Transactions on Mobile Computing期刊（CCF-A）接收！Congratulations!
--2023.08.04： 🎉🎉 关于车联网中弹性订单分配的论文被IEEE Transactions on Mobile Computing期刊（CCF-A）接收！Congratulations!
--2023.03.31： 🎉🎉 关于车联网中共乘调度的论文被IWQoS 2023会议（CCF B）录取！Congratulations！
+- 2024.12.06:  🎉🎉 关于车联网中定价策略的论文被IEEE Conference on Computer Communications 会议（CCF-A）接收！Congratulations!
+- 2024.12.06:  🎉🎉 关于车联网中定价策略的论文被IEEE Transactions on Mobile Computing期刊（CCF-A）接收！Congratulations!
+- 2024.11.15:  🎉🎉 关于车联网空驶调度的论文被IEEE Transactions on Mobile Computing期刊（CCF-A）接收！Congratulations!
+- 2024.11.05:  🎉🎉 关于车联网中司乘匹配算法的论文被IEEE Transactions on Services Computing期刊（CCF-A）接收！Congratulations!
+- 2023.10.26:  🎉🎉 关于DAG任务卸载的论文被IEEE Transactions on Mobile Computing期刊（CCF-A）接收！Congratulations!
+- 2023.08.04： 🎉🎉 关于车联网中弹性订单分配的论文被IEEE Transactions on Mobile Computing期刊（CCF-A）接收！Congratulations!
+- 2023.03.31： 🎉🎉 关于车联网中共乘调度的论文被IWQoS 2023会议（CCF B）录取！Congratulations！
 
 
 📖教育及工作背景
 ======
 
--2020/09–2025/03，天津大学，计算机科学与技术，博士
+- 2020/09–2025/03，天津大学，计算机科学与技术，博士
 
--2018/09–2020/07，天津大学，计算机技术，硕士
+- 2018/09–2020/07，天津大学，计算机技术，硕士
 
--2014/09–2018/07，河北工业大学，信息与计算科学（双学位），学士
+- 2014/09–2018/07，河北工业大学，信息与计算科学（双学位），学士
 
 
 🏆获奖及荣誉
