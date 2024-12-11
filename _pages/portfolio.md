@@ -1,8 +1,9 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "学术研究"
 permalink: /portfolio/
 author_profile: true
+
 ---
 
 {% include base_path %}
