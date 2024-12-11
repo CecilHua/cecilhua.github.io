@@ -1,8 +1,6 @@
 ---
-layout: archive
-title: "Portfolio"
-permalink: /portfolio/
-author_profile: true
+title: "学术研究"
+collection: portfolio
 ---
 
 📚 专著 Books
