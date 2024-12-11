@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Portfolio"
+permalink: /portfolio/
+author_profile: true
+---
+
 📚 专著 Books
 ====
 - Xiaobo Zhou, **Shuxin Ge**, Jiancheng Chi, Tie Qiu. Industrial Edge Computing: Architecture, Optimization and Applications, 2024, Springer
