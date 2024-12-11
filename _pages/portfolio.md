@@ -36,8 +36,3 @@ author_profile: true
 =====
 
 - Conference Secretary, IEEE SmartIoT 2023
-
-#{% for post in site.portfolio %}
-#  {% include archive-single.html %}
-#{% endfor %}
-
