@@ -8,16 +8,34 @@ author_profile: true
 
 {% include base_path %}
 
-📚 专著 Books
-====
-- Xiaobo Zhou, **Shuxin Ge**, Jiancheng Chi, Tie Qiu. Industrial Edge Computing: Architecture, Optimization and Applications, 2024, Springer
+🧩 研究方向
+=====
+**智能物联网协作感知**
+
+智能物联网协作感知侧重于提升物联网设备在数据收集和处理中的协同工作能力。通过使设备能够互相通信、共享数据和资源，旨在突破单个设备在感知范围和计算能力上的限制。研究内容包括但不限于感知数据的集成处理、分布式智能算法的开发、以及提高感知数据精确度和可靠性的策略。该领域的进步将促进智慧城市、自动驾驶、环境监测、灾难响应等应用的发展，实现更高效和精准的环境感知与数据分析。
+
+**物联网数据传输与流量调度**
+
+物联网数据传输与流量调度关注于如何高效、可靠地在物联网设备和服务器之间传输数据。目的是优化网络资源的使用，减少数据传输延迟，提高网络吞吐量。研究内容涵盖网络协议的设计、传输算法的优化、以及流量管理机制的创新。在数据爆炸式增长的今天，此领域的研究对于支撑物联网设备的大规模部署和高效运行至关重要，尤其适用于实时监控和遥感数据收集等场景。
+
+**物联网大数据分析**
+
+物联网大数据分析专注于从海量的物联网数据中提取有用信息和知识。物联网设备日益增多，产生的数据量爆炸式增长，需要高效的数据处理和分析技术。研究内容包括数据预处理、模式识别、机器学习和深度学习算法的应用，数据分析与挖掘，以及数据可视化技术。该方向的进展对于实现智能决策支持、系统异常检测、优化业务流程、提升用户体验和促进科技创新具有重要意义。
 
 
-📃 期刊论文 Journal Articles
-====
-- **Shuxin Ge**, Xiaobo Zhou, Tie Qiu. R2Pricing: A MARL-based Pricing Strategy to Maximize Revenue in MoD Systems with Ridesharing and Repositioning, IEEE Transactions on Mobile Computing (TMC), 2024, to appear. (CCF A)
-- Xiaobo Zhou, **Shuxin Ge**, Tie Qiu, Xingwei Wang. Preference-aware Vehicle Repositioning Recommendation for MoD Systems: A Coulomb Force Directed Perspective, IEEE Transactions on Mobile Computing (TMC), 2024, to appear. (CCF A)
+💻 科研项目
+=====
 
+- 国家自然科学基金面上项目，62072330，面向智能网联汽车的端边协作感知关键技术研究，2021.01-2024.12，56万元，参与
+- 国家自然科学基金青年科学基金项目，61702365，基于解码转发的不可信中继网络物理层安全研究，2018/01-2020/12，25万元，结题，参与
+- CCF-滴滴盖亚青年学者科研基金项目，20211207-00102，基于深度强化学习的动态调价研究, 2022/01-2023/01，10万元，结题，参与
+- 天津市科技计划项目，21ZLGCGX00010，医疗大数据推动医药数字化转型创新发展研究，2021/04—2022/09，200万元，结题，参与
+- 天津市科技计划项目，18ZXZNGX00040，人工智能微处理技术与系统，2018/10—2020/09，2500万元，结题，参与
+
+📝 学术服务
+=====
+
+- Conference Secretary, IEEE SmartIoT 2023
 
 #{% for post in site.portfolio %}
 #  {% include archive-single.html %}
