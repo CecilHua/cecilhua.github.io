@@ -5,17 +5,17 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "学术研究"
-    url: /publications/
+  #- title: "学术研究"
+  #  url: /publications/
 
-  - title: "学术成果"
-    url: /talks/    
+  #- title: "学术成果"
+  #  url: /talks/    
 
   #- title: "Teaching"
   #  url: /teaching/    
     
-  #- title: "Portfolio"
-  #  url: /portfolio/
+  - title: "学术成果"
+    url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
