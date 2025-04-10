@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "葛树鑫的个人主页"
 title_separator          : "-"
 name                     : &name "葛树鑫"
-description              : &description "天津大学，智慧物联网实验室，博士研究生"
+description              : &description "山东省计算中心（国家超级计算济南中心），特聘副教授"
 url                      : https://cecilhua.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "me.png"
   name             : "葛树鑫"
   pronouns         : # example: "she/her"  
-  bio              : "智慧物联网实验室，博士研究生"
-  location         : "天津"
-  employer         : "天津大学"
+  bio              : "算力互联网与信息安全教育部重点实验室，特聘副教授"
+  location         : "济南，中国"
+  employer         : "山东省计算中心（国家超级计算济南中心）"
   uri              : # URL
-  email            : "shuxin_ge@tju.edu.cn" 
+  email            : "cecilge@sdas.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
