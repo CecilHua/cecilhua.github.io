@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-葛树鑫，男，齐鲁工业大学（山东省科学院），山东省计算中心（国家超级计算济南中心），特聘副教授，多年来从事物联网与边缘计算关键技术研究，做出一系列成果。近年来在各类国际会议期刊中发表高质量论文19篇，其中CCF A类、SCI一区期刊上发表论文9篇（其中第一作者4篇，导师一作/学生二作3篇），其中包括IEEE TMC、IEEE TSC、IEEE INFOCOM、IEEE IoTJ、IEEE/ACM IWQoS等领域内顶级期刊和会议。参与国家自然科学基金2项。曾协助举办多个国际知名会议，如IEEE ICPADS 2019，IEEE CSCWD 2023，IEEE SmartIoT 2023，任IEEE SmartIoT 2023大会秘书。
+葛树鑫，男，齐鲁工业大学（山东省科学院），山东省计算中心（国家超级计算济南中心），边缘智能计算团队，多年来从事物联网与边缘计算关键技术研究，做出一系列成果。近年来在各类国际会议期刊中发表高质量论文19篇，其中CCF A类、SCI一区期刊上发表论文9篇（其中第一作者4篇，导师一作/学生二作3篇），其中包括IEEE TMC、IEEE TSC、IEEE INFOCOM、IEEE IoTJ、IEEE/ACM IWQoS等领域内顶级期刊和会议。参与国家自然科学基金2项。曾协助举办多个国际知名会议，如IEEE ICPADS 2019，IEEE CSCWD 2023，IEEE SmartIoT 2023，任IEEE SmartIoT 2023大会秘书。
 
 
 🔥新闻动态
